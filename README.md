@@ -90,7 +90,7 @@ DevOps & Infrastructure:
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BITIZE5776s&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BITIZE5776s&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&v=1" alt="GitHub Stats" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BITIZE5776s&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
