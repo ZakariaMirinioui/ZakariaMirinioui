@@ -90,22 +90,17 @@ DevOps & Infrastructure:
 ## GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=BITIZE5776s&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-      </td>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BITIZE5776s&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BITIZE5776s&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BITIZE5776s&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BITIZE5776s&theme=github-dark-blue&hide_border=true" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BITIZE5776s&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
 
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BITIZE5776s&theme=github-compact&hide_border=true&area=true" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BITIZE5776s&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 ---
 
