@@ -1,304 +1,189 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%7C+Digital+Solutions+Architect;Turning+Complex+Problems+into+Elegant+Solutions;If+I+Can+See+It%2C+I+Can+Code+It" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Zakaria+Mirinioui;Full+Stack+Engineer;Digital+Solutions+Architect" alt="Typing SVG" />
   
 </div>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Zakaria Mirinioui
-</h1>
-
-<h3 align="center">Full Stack Developer & IT Analyst | Digital Solutions Architect</h3>
+<h3 align="center">Specialized in Enterprise Java Solutions & Modern Web Architecture</h3>
 
 <p align="center">
   <em>
-    Certified Full Stack Engineer with <b>2+ years of hands-on experience</b> building <b>secure, scalable enterprise applications</b><br>
-    across critical sectors including <b>Justice, Logistics & Industrial Operations</b>.<br>
-    Combining <b>technical mastery</b> with <b>Business Analysis expertise</b> to deliver solutions that drive real business impact.
+    Freelance Software Engineer delivering enterprise-grade applications for international institutions<br>
+    and distributed teams across Europe and North Africa.
   </em>
 </p>
 
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://zakaria-mirinioui-portfolio.surge.sh)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-mirinioui)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zakmirinioui@gmail.com)
+  
+</div>
+
 ---
 
-### 🎯 **What I Bring to the Table**
+## Technical Expertise
+
+### Core Technologies
 
 ```yaml
-Role: Full Stack Developer & Technical Project Lead
-Approach: Business-Driven Development
-Philosophy: "Code is a means to solve business problems, not an end in itself"
-
-Core Strengths:
-  - 360° Project Vision: Translating complex business requirements into technical architecture
-  - Security-First Mindset: Built systems handling sensitive judicial and financial data
-  - Performance Obsessed: Reduced processing time by 30% through strategic optimization
-  - Multilingual: English C1 | French Fluent | Arabic Native
+Backend Development:
+  Primary: Java (Spring Boot, Spring Security, JPA/Hibernate)
+  Secondary: PHP (Laravel), Node.js (Express)
+  
+Frontend Engineering:
+  Frameworks: React, Next.js, Angular
+  Languages: TypeScript, JavaScript ES6+
+  UI Libraries: TailwindCSS, Material-UI, Bootstrap
+  
+Data & Integration:
+  Databases: PostgreSQL, MySQL, MongoDB
+  APIs: RESTful, GraphQL
+  Message Queues: RabbitMQ, Apache Kafka
+  
+DevOps & Infrastructure:
+  Containers: Docker, Kubernetes
+  Cloud: AWS, Oracle Cloud
+  CI/CD: Jenkins, GitHub Actions
+  Version Control: Git, GitFlow
 ```
 
----
-
-### 💼 **Professional Experience**
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🏛️ **Palais de Justice Khouribga**
-**Technical Project Lead & Full Stack Developer**  
-*July - October 2025*
-
-- Led digitization of judicial procedures for public administration
-- Achieved **30% reduction** in administrative processing time
-- Designed secure backend infrastructure ensuring **100% data confidentiality**
-- Translated complex legal requirements into technical specs (Business Analysis)
-
-**Stack:** Java, PHP, SQL, Secure Authentication Protocols
-
-</td>
-<td width="50%">
-
-#### 🚚 **Brinks Security (Morocco)**
-**Full Stack Developer**  
-*April - June 2025*
-
-- Built secure logistics tracking solution for security operations
-- Developed real-time REST APIs with **React.js** frontend
-- Optimized database architecture for enhanced field operations
-- Successfully deployed to production environment
-
-**Stack:** React.js, REST APIs, Database Optimization
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-#### ⚙️ **OCP Group Khouribga**
-**IT Support & Automation Associate**  
-*August 2024*
-
-- Maintained critical IT infrastructure in high-availability industrial environment
-- Developed Python & Bash automation scripts for report generation
-- Improved maintenance workflow reliability through proactive process automation
-
-**Stack:** Python, Bash, System Administration
-
-</td>
-</tr>
-</table>
-
----
-
-### 🛠️ **Technical Arsenal**
+### Professional Stack
 
 <div align="center">
 
-#### **Backend & Logic**
+#### Backend & Enterprise Systems
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### **Frontend & UI**
+#### Frontend Development
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### **API & Data**
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+#### Data & Architecture
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-#### **DevOps & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-### 🏆 **Certifications & Credentials**
+## GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BITIZE5776s&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BITIZE5776s&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</div>
 
-| **Certification** | **Issuer** | **Badge** |
-|:------------------|:-----------|:----------|
-| **Business Analysis (PMI)** | Project Management Institute | ![PMI](https://img.shields.io/badge/PMI-Certified-0052CC?style=flat-square&logo=project-management-institute) |
-| **SQL Advanced** | HackerRank | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white) |
-| **Project Management (PMI)** | Project Management Institute | ![PMI](https://img.shields.io/badge/PMI-Certified-0052CC?style=flat-square&logo=project-management-institute) |
-| **JavaScript Intermediate** | HackerRank | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white) |
-| **Frontend Developer** | HackerRank | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white) |
-| **Cybersecurity Fundamentals** | Fortinet | ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white) |
-| **Oracle Cloud AI** | Oracle | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
-| **Project Management (NASBA)** | NASBA | ![NASBA](https://img.shields.io/badge/NASBA-Certified-2E3B4E?style=flat-square) |
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BITIZE5776s&theme=github-dark-blue&hide_border=true" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BITIZE5776s&theme=github-compact&hide_border=true&area=true" />
 </div>
 
 ---
 
-### 🚀 **Featured Projects**
+## Selected Projects
 
-<div align="center">
+### Enterprise & Institutional Solutions
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">🏛️ JudicialArchive</h3>
+#### **JudicialArchive**
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/BITIZE5776s/JudicialArchive)
+[![Stars](https://img.shields.io/github/stars/BITIZE5776s/JudicialArchive?style=social)](https://github.com/BITIZE5776s/JudicialArchive)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/BITIZE5776s/JudicialArchive?style=social" />
-</p>
+Secure document management system developed for judicial administration. Implements role-based access control, audit logging, and end-to-end encryption for sensitive legal documentation.
 
-Secure document management system for judicial procedures. Built with modern TypeScript stack, implementing role-based access control and audit trails for sensitive legal documents.
-
-**Key Features:**
-- End-to-end encryption
-- Audit logging system
-- Real-time document tracking
-- Role-based permissions
-
-[**View Repository →**](https://github.com/BITIZE5776s/JudicialArchive)
+**Architecture**: TypeScript, Node.js, PostgreSQL, Redis  
+**Deployment**: Docker containers with Nginx reverse proxy
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">📱 Project-ARCUS</h3>
+#### **Project-ARCUS**
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)](https://github.com/BITIZE5776s/Project-ARCUS)
+[![Stars](https://img.shields.io/github/stars/BITIZE5776s/Project-ARCUS?style=social)](https://github.com/BITIZE5776s/Project-ARCUS)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/BITIZE5776s/Project-ARCUS?style=social" />
-</p>
+Mobile application built with modern Android development practices. Clean architecture with MVVM pattern, dependency injection, and comprehensive testing suite.
 
-Mobile-first application built with Kotlin, showcasing modern Android development practices with clean architecture and MVVM pattern.
-
-**Key Features:**
-- Clean Architecture
-- MVVM pattern
-- Dependency Injection
-- Unit & Integration Tests
-
-[**View Repository →**](https://github.com/BITIZE5776s/Project-ARCUS)
+**Stack**: Kotlin, Jetpack Compose, Retrofit, Room  
+**Pattern**: Clean Architecture, SOLID principles
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">💊 Cura</h3>
+#### **Cura**
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/BITIZE5776s/Cura)
+[![Stars](https://img.shields.io/github/stars/BITIZE5776s/Cura?style=social)](https://github.com/BITIZE5776s/Cura)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/BITIZE5776s/Cura?style=social" />
-</p>
+Healthcare management platform with appointment scheduling, patient records, and real-time notifications. Built with privacy and data security as primary concerns.
 
-Healthcare management solution with appointment scheduling, patient records, and real-time notifications. Built with focus on data privacy and HIPAA compliance considerations.
-
-**Tech Stack:** TypeScript, React, Node.js, PostgreSQL
-
-[**View Repository →**](https://github.com/BITIZE5776s/Cura)
+**Technology**: React, Node.js, PostgreSQL, Socket.io  
+**Security**: HTTPS, JWT authentication, data encryption
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">📊 AdminDash Core</h3>
+#### **Dossera**
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/BITIZE5776s/Dossera)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-</p>
+Document processing and workflow automation system. Handles complex business logic with microservices architecture and event-driven design.
 
-Modern admin dashboard with reusable React components for building data-intensive applications. Forked from Tremor and enhanced with custom business logic.
-
-**Features:** Real-time analytics, Custom charts, Data export
-
-[**View Repository →**](https://github.com/BITIZE5776s/AdminDash_core)
+**Framework**: Next.js, Express, MongoDB  
+**Architecture**: Microservices, Event-driven
 
 </td>
 </tr>
 </table>
 
-</div>
-
----
-
-### 📊 **GitHub Analytics**
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BITIZE5776s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BITIZE5776s&theme=tokyonight&hide_border=true" />
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BITIZE5776s&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BITIZE5776s&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-### 🎓 **Education**
-
-**Diplôme Universitaire de Technologie (DUT) - Génie Informatique**  
-*École Supérieure de Technologie de Béni Mellal | 2023 - 2025*
-
-Intensive two-year technical program focusing on:
-- N-tier architecture development (Java EE)
-- Modern web development frameworks
-- Advanced database administration (Oracle/MySQL)
-- Agile methodologies & collaborative development
-
----
-
-### 💡 **Why Work With Me?**
+### Open Source Contributions
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### 🎯 **Business-Focused**
-I don't just write code—I solve business problems. Every technical decision is evaluated against real business impact.
+#### **AdminDash Core**
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/BITIZE5776s/AdminDash_core)
 
-</td>
-<td width="33%" align="center">
+Enhanced fork of Tremor dashboard components. Added custom business logic, improved performance, and extended component library for enterprise applications.
 
-### 🔒 **Security-First**
-Experience with sensitive data in justice and financial sectors means security is baked into every line of code.
+**Contribution**: Custom components, Performance optimization, TypeScript refactoring
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### 🌐 **Multilingual**
-Fluent in English (C1), French, and Arabic—enabling seamless collaboration across international teams.
+#### **Portfolio Core**
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/BITIZE5776s/Portofolio-core)
 
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
+Modular portfolio framework with server-side rendering and dynamic content management. Optimized for performance and SEO.
 
-### 🚀 **Performance-Driven**
-Proven track record: 30% reduction in processing time through strategic optimization and clean architecture.
-
-</td>
-<td width="33%" align="center">
-
-### 📊 **Agile & Adaptive**
-PMI-certified in Business Analysis and Project Management. I understand both the technical and business sides.
-
-</td>
-<td width="33%" align="center">
-
-### 💪 **Full-Stack Versatility**
-From React frontends to Spring Boot backends—I work across the entire stack to deliver end-to-end solutions.
+**Features**: SSR, Dynamic routing, Content management
 
 </td>
 </tr>
@@ -306,41 +191,92 @@ From React frontends to Spring Boot backends—I work across the entire stack to
 
 ---
 
-### 📫 **Let's Connect**
+## Professional Certifications
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-mirinioui)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://zakaria-mirinioui-portfolio.surge.sh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakmirinioui@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BITIZE5776s)
-
-<br>
-
-**📧 Email:** zakmirinioui@gmail.com  
-**📱 Phone:** +212 629 258 876  
-**🌍 Location:** Khouribga, Morocco  
+| Certification | Provider | Domain |
+|:-------------|:---------|:-------|
+| Business Analysis Professional | PMI | Business Strategy & Requirements |
+| Project Management Professional | PMI | Agile & Waterfall Methodologies |
+| SQL Advanced Certification | HackerRank | Database Design & Optimization |
+| JavaScript Intermediate | HackerRank | Modern JavaScript & ES6+ |
+| Frontend Developer | HackerRank | Web Development & UI/UX |
+| Cybersecurity Fundamentals | Fortinet | Security Best Practices |
+| Oracle Cloud AI Foundations | Oracle | Cloud Architecture & AI Services |
+| Project Management (NASBA) | NASBA | Business Process Management |
 
 </div>
 
 ---
 
-### ⚡ **Fun Facts**
+## Technical Proficiencies
 
-- 💻 **Philosophy:** "If I can see it, I can code it"
-- 🌱 **Currently Learning:** Advanced GraphQL patterns and microservices architecture
-- 🎯 **2026 Goals:** Contribute to open-source projects and build scalable SaaS applications
-- ⚙️ **Favorite Stack:** React + Node.js + PostgreSQL + Docker
-- 🏆 **Achievement Unlocked:** Built production systems used by government institutions
+### Backend Development
+- **Java Ecosystem**: Spring Boot, Spring Security, Spring Data JPA, Hibernate ORM
+- **API Design**: RESTful services, GraphQL, WebSocket, gRPC
+- **Security**: OAuth2, JWT, SSL/TLS, Data encryption
+- **Microservices**: Service discovery, API Gateway, Circuit breakers
+
+### Database Engineering
+- **Relational**: PostgreSQL (Advanced), MySQL, Oracle Database
+- **NoSQL**: MongoDB, Redis (Caching strategies)
+- **ORMs**: Hibernate, Sequelize, Mongoose
+- **Optimization**: Query tuning, Indexing strategies, Performance analysis
+
+### DevOps & Cloud
+- **Containerization**: Docker, Docker Compose, Kubernetes orchestration
+- **CI/CD**: Jenkins pipelines, GitHub Actions, GitLab CI
+- **Cloud Platforms**: AWS (EC2, S3, Lambda), Oracle Cloud Infrastructure
+- **Monitoring**: Prometheus, Grafana, ELK Stack
+
+### Software Architecture
+- **Design Patterns**: MVC, MVVM, Repository, Factory, Singleton
+- **Principles**: SOLID, DRY, KISS, Clean Architecture
+- **Methodologies**: Agile/Scrum, Test-Driven Development (TDD)
+
+---
+
+## Languages
+
+<div align="center">
+
+**English** (C1 - Advanced) • **French** (Professional Fluency) • **Arabic** (Native)
+
+*Certified English Proficiency: EF SET C1 Advanced*
+
+</div>
+
+---
+
+## Education
+
+**Diplôme Universitaire de Technologie (DUT) - Software Engineering**  
+École Supérieure de Technologie, Béni Mellal | 2023 - 2025
+
+Specialized curriculum in enterprise software development, distributed systems, and advanced database administration. Emphasis on Java EE architecture, modern web frameworks, and agile development methodologies.
+
+---
+
+## Contact & Availability
+
+<div align="center">
+
+📧 **zakmirinioui@gmail.com**  
+🔗 **[linkedin.com/in/zakaria-mirinioui](https://www.linkedin.com/in/zakaria-mirinioui)**  
+🌐 **[zakaria-mirinioui-portfolio.surge.sh](https://zakaria-mirinioui-portfolio.surge.sh)**  
+📱 **+212 629 258 876**
+
+📍 Based in Morocco • Available for international remote collaboration
+
+</div>
 
 ---
 
 <div align="center">
   
-  ### 🌟 **"Code is poetry written in logic"** 🌟
+  <img src="https://komarev.com/ghpvc/?username=BITIZE5776s&label=Profile%20Views&color=2F81F7&style=flat-square" alt="Profile Views" />
   
-  <img src="https://komarev.com/ghpvc/?username=BITIZE5776s&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  ⭐️ From [BITIZE5776s](https://github.com/BITIZE5776s) | Crafted with 💙 and ☕
+  <sub>*If I can see it, I can code it*</sub>
   
 </div>
