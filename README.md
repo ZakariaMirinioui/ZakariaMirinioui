@@ -262,7 +262,6 @@ Specialized curriculum in enterprise software development, distributed systems, 
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=ZakariaMirinioui&label=Profile%20Views&color=2F81F7&style=flat-square" alt="Profile Views" />
   
   <sub>*If I can see it, I can code it*</sub>
 
